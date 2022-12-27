@@ -1,0 +1,11 @@
+Model Information:
+* title:	Roof_AT
+* source:	https://sketchfab.com/3d-models/roof-at-f1a49074b56f490182d081e1307fffa5
+* author:	RVECH (https://sketchfab.com/RVECH)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Roof_AT" (https://sketchfab.com/3d-models/roof-at-f1a49074b56f490182d081e1307fffa5) by RVECH (https://sketchfab.com/RVECH) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

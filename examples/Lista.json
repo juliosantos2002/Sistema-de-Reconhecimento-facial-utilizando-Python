@@ -1,0 +1,17 @@
+[
+   {
+      "id": 1,
+      "Nome": "Julio",
+      "Nivel": 3
+   },
+   {
+      "id": 2,
+      "Nome": "Lucas",
+      "Nivel": 2
+   },
+   {
+      "id": 5,
+      "Nome": "Leandro",
+      "Nivel": 4
+   }
+]

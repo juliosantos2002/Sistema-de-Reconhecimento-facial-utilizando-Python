@@ -1,0 +1,11 @@
+Model Information:
+* title:	Camera Render
+* source:	https://sketchfab.com/3d-models/camera-render-a7692616aff54759a6b984626c318a5a
+* author:	EhhSean (https://sketchfab.com/ehhsean1)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Camera Render" (https://sketchfab.com/3d-models/camera-render-a7692616aff54759a6b984626c318a5a) by EhhSean (https://sketchfab.com/ehhsean1) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

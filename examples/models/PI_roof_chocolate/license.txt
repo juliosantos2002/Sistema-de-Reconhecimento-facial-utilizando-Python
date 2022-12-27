@@ -1,0 +1,11 @@
+Model Information:
+* title:	Roof [For Survival Videogame]
+* source:	https://sketchfab.com/3d-models/roof-for-survival-videogame-4d768b92459d4111b13462ea0e6b0ee2
+* author:	VX-Designs (https://sketchfab.com/vxdesigns)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Roof [For Survival Videogame]" (https://sketchfab.com/3d-models/roof-for-survival-videogame-4d768b92459d4111b13462ea0e6b0ee2) by VX-Designs (https://sketchfab.com/vxdesigns) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

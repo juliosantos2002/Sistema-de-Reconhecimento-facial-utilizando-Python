@@ -1,0 +1,11 @@
+Model Information:
+* title:	Iron Roof Model
+* source:	https://sketchfab.com/3d-models/iron-roof-model-a838aa5cdbf24270b1800c0e2a599053
+* author:	amrmukhlisin (https://sketchfab.com/amrmukhlisin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Iron Roof Model" (https://sketchfab.com/3d-models/iron-roof-model-a838aa5cdbf24270b1800c0e2a599053) by amrmukhlisin (https://sketchfab.com/amrmukhlisin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

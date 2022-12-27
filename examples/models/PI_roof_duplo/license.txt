@@ -1,0 +1,11 @@
+Model Information:
+* title:	Roof Baked
+* source:	https://sketchfab.com/3d-models/roof-baked-5615f1e48796432bb48a053fe4dd3150
+* author:	oksana_grym (https://sketchfab.com/oksana_grym)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Roof Baked" (https://sketchfab.com/3d-models/roof-baked-5615f1e48796432bb48a053fe4dd3150) by oksana_grym (https://sketchfab.com/oksana_grym) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
